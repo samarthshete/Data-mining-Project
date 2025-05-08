@@ -5,17 +5,15 @@
 # **Analysis of Crime Rates on Residential Property in Washington DC in 2018**
 
 ### Team Members
-# - Palrecha Sayam Mukesh
-#- Snehitha Tadapaneni
-#- Amrutha Jayachandradhara
-#- Annie Cheng
+# - Samarth Shete
+# - Karan Patel
 
 ### Course
-#**Introduction to Data Mining: DS 6103**  
+#**Data Mining: **  
 #<br>
-#**Instructor**: Prof. Ning Rui  
+#**Instructor**: Prof. Abdelghani Bellaachia
 # <br>
-#**TA**: Parameshwar Bhat
+
 
 ### SMART Questions
 #1. To what extent do neighborhood crime rates correlate with residential property values across Washington DC, using the combined analysis of the Housing Price dataset and open data crime dataset?
